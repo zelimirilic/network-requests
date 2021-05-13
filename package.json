@@ -9,6 +9,6 @@
   "author": "Zeljko Ilic",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.12.1"
+    "cypress": "^6.5.0"
   }
 }
